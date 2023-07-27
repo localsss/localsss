@@ -5,13 +5,14 @@
 
 #### > ~~Nothing useful~~
 #### > ~~Nothing unique~~
+#### > ~~Got decent with LUA~~
 
 
 ## What im doing
 
 
-#### > Currently starting JS😢
-#### > Currently trying to get better with LUA🙏
+#### > Node.js 🤑
+#### > Currently trying to get better with LUA 🙏
 
 
-![](https://raw.githubusercontent.com/localsss/emojis/main/laugh.gif)
+![](https://media.discordapp.net/attachments/570686290799099920/1118473682818449439/oioIJUIK.gif)
