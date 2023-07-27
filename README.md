@@ -15,4 +15,4 @@
 #### > Currently trying to get better with LUA 🙏
 
 
-![](https://media.discordapp.net/attachments/570686290799099920/1118473682818449439/oioIJUIK.gif)
+![](https://github.com/localsss/revive-old-emojis/blob/main/oioIJUIK.gif?raw=true)
